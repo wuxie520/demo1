@@ -1,0 +1,2 @@
+#!/bin/env
+print 'hello'
